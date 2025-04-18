@@ -1,0 +1,1 @@
+"This C program performs basic matrix operations (addition, subtraction, and element-wise multiplication) on two 6x6 matrices with colorful terminal output."
