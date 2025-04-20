@@ -18,5 +18,5 @@
 - And some projects I made
 - and maybe, binary and linear search algorithms
 
-###⚠️ Disclaimer
+### ⚠️ Disclaimer
 **This is my personal learning repo. While I appreciate suggestions, I’m not currently accepting pull requests.**
