@@ -13,9 +13,9 @@ Multidimensional Arrays
 Pass by value and pass by reference functions
 Pointers
 Structs
-More conditionaals and loops problems
+More conditional and loop problems
 And some projects I made
-and maybe, binary and linear search algorithm
+and maybe, binary and linear search algorithms
 
 ⚠️ Disclaimer
 This is my personal learning repo. While I appreciate suggestions, I’m not currently accepting pull requests.
