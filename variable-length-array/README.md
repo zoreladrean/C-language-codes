@@ -3,6 +3,7 @@
 -
 **This dynamically allocates an array based on user input.**
 ---
+### Sample Outputs  
 - ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/variable-length-array/sampleOutput1.PNG)
 - ![sample output 2](https://github.com/zoreladrean/C-language-codes/blob/main/variable-length-array/sampleOutput2.PNG)
 - ![sample output 3](https://github.com/zoreladrean/C-language-codes/blob/main/variable-length-array/sampleOutput3.PNG)
