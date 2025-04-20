@@ -10,4 +10,5 @@
 > I find the `fgets` function easier to use when dealing with sentences.  
 > The `scanf` gets too complicated at times when it comes to *strings*. I mostly use it for *integers*, *1-word strings*, or *characters*.  
 ---
+### Sample Output
 ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/consonant_counter/sampleOutput.PNG)
