@@ -6,5 +6,6 @@
 - **Uses a fixed-size character array for string storage.**
 - **Checks each character against a lookup string of vowels.**
 - **Prints each vowel found and the total count.**
-
+---
+### Sample Output 
 ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/vowel_counter/sampleOutput.PNG)
