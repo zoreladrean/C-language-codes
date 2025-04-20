@@ -10,3 +10,6 @@ A number that equals the sum of its own digits, each raised to the power of the 
 `1634` is an Armstrong number because:  
 1⁴ + 6⁴ + 3⁴ + 4⁴ = 1 + 1296 + 81 + 256 = _1634_
 > *"Honestly, this is easier to solve with pen and paper... but it’s a good brain exercise!"* :rocket:  
+---
+- ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/armstrong_number/sampleOutput1.PNG)
+- ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/armstrong_number/sampleOutput2.PNG)
