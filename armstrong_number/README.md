@@ -1,6 +1,12 @@
-This C code checks if the number you entered is an Armstrong number or not.
-So what's an Armstrong number?
-It's a number that is equal to the sum of its own digits, each raised to the power of the number of digits in the number.
-For example: 1634: 1⁴ + 6⁴ + 3⁴ + 4⁴ = 1 + 1296 + 81 + 256 = 1634
-Honestly, this is really easier when done with pen and paper than in code.
-But it's a good brain exercise nonetheless.
+
+## Armstrong Number Checker  
+
+This C program checks if a number is an **Armstrong number**.  
+
+### ❓ What's an Armstrong Number?  
+A number that equals the sum of its own digits, each raised to the power of the digit count.  
+
+**Example**:  
+`1634` is an Armstrong number because:  
+1⁴ + 6⁴ + 3⁴ + 4⁴ = 1 + 1296 + 81 + 256 = _1634_
+> *"Honestly, this is easier to solve with pen and paper... but it’s a good brain exercise!"* :rocket:  
