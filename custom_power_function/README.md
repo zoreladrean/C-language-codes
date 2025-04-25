@@ -6,4 +6,4 @@ The `calcPower()` function uses **pass-by-value** parameters:
 - Returns the computed result without side effects
 ---
 ### Sample Output
--![sample output]()
+-![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/custom_power_function/sampleOutput.PNG)
