@@ -10,6 +10,6 @@ A simple C program that counts the number of words in a given sentence.
 >these two inputs will both have a number count of 9
 
 ### Sample Outputs
-- ![sample output 1]()
-- ![sample output 2]()
-- ![sample output 3]()
+- ![sample output 1](https://github.com/zoreladrean/C-language-codes/blob/main/count_words/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/C-language-codes/blob/main/count_words/sampleOutput2.PNG)
+- ![sample output 3](https://github.com/zoreladrean/C-language-codes/blob/main/count_words/sampleOutput3.PNG)
