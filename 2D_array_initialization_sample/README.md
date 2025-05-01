@@ -5,4 +5,4 @@ This C program demonstrates the creation, initialization, and printing of a 2-di
 3.  **Prints the array**  in matrix format using nested for loops
 ---
 ### Sample Output:
-- ![sample output]()
+- ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/2D_array_initialization_sample/sampleOutput.PNG)
