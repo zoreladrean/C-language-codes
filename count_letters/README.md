@@ -6,5 +6,5 @@ A simple C program that counts alphabetic characters in a sentence while ignorin
 - Uses standard library functions (`isalpha()`, `strlen`)
 ---
 ### Sample Outputs
-- ![sample output 1]()
-- ![sample output 2]()
+- ![sample output 1](https://github.com/zoreladrean/C-language-codes/blob/main/count_letters/sampleOutput1.PNG)
+- ![sample output 2](https://github.com/zoreladrean/C-language-codes/blob/main/count_letters/sampleOutput2.PNG)
