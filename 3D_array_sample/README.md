@@ -4,6 +4,7 @@
 A simple demonstration of 3-dimensional array initialization and displaying the table via triple nested loop traversal.
 
 ---
+### 📝 Code Preview
 ```c
 #include  <stdio.h>
 
