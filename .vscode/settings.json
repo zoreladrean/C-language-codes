@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "LargerOrEqualNumbers.C": "cpp"
+    "LargerOrEqualNumbers.C": "cpp",
+    "RaiseToThePowerWHILEsample.C": "cpp"
   }
 }
