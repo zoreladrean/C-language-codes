@@ -28,14 +28,16 @@ int main ( void ) {
 
 void reverseArrayFunction ( int *array, int size ) {
   int temp;
-  int *start = array;
-  int *end = array + size - 1;
+  int *start = array; //pointer to first element
+  int *end = array + size - 1; //pointer to last element
 
   while ( start < end ) {
+    //swap elements using pointers
     temp = *start;
     *start = *end;
     *end = temp;
-
+    
+    //move pointers to the center
     start++;
     end--;
   }
