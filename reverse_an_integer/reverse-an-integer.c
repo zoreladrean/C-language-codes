@@ -43,7 +43,7 @@ void reverseInt ( int num ) {
     num /= 10; //remove last digit
   }
 
-  if ( isNegative )
+  if ( isNegative ) //restore sign if original was negative
     sum = -sum;
 
   printf ( "Reversed integer: %d", sum );
