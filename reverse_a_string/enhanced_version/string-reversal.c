@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+void reverseString ( char *str );
+
 int main ( void ) {
 
   char string [ 255 ];
@@ -9,16 +11,20 @@ int main ( void ) {
   fgets ( string, sizeof ( string ), stdin );
   strtok ( string, "\n" );
 
-  int len = strlen ( string );
-
-  for ( int i = 0, j = len - 1; i < j; i++, j-- ) { //in-place reversal
-    
-    char temp = string [ i ];
-    string [ i ] = string [ j ];
-    string [ j ] = temp;
-  }
+  reverseString ( string );
 
   printf ( "Reversed string: %s", string );
 
   return 0;
+}
+
+void reverseString ( char *str ) {
+  int len = strlen ( str );
+
+  for ( int i = 0, j = len - 1; i < j; i++, j-- ) {
+
+    char temp = str [ i ];
+    str [ i ] = str [ j ];
+    str [ j ] = temp;
+  }
 }
