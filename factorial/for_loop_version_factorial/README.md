@@ -8,7 +8,7 @@ This program calculates the factorial of a number using an iterative approach wi
 -   Efficient computation with O(n) time complexity
 
 ---
-### Code of `sortArray` function:
+### Code:
 ```c
 #include <stdio.h>
 
