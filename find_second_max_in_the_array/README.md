@@ -37,6 +37,7 @@ int* secondMax ( int arr [ ], int size ) {
 }
 ```
 > **Max Pointer**: Always points to the biggest number found so far
+> 
 > **SecondMax Pointer**: Chases right behind, tracking the second biggest
 
 ### Main function:
