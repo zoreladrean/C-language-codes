@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <ctype.h>
 
 int countWords ( char *sentence, int length );
 
@@ -23,7 +24,8 @@ int countWords ( char *sentence, int length ) {
   int counter;
 
   for ( counter = 0; counter < length; counter++ ) {
-    if ( sentence [ counter ] != ' ' && ( counter == 0 || sentence [ counter - 1 ] == ' ' ) )
+    if ( !( isspace ( sentence [ counter ] ) ) &&
+       ( counter == 0 || isspace ( sentence [ counter - 1 ] ) ) )
       wordCounter++;
   }
   return wordCounter;
