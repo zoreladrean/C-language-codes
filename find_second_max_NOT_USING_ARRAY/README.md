@@ -44,4 +44,4 @@ int main ( void ) {
 ```
 ---
 ### Sample Output:
-- ![sample output]()
+- ![sample output](https://github.com/zoreladrean/C-language-codes/blob/main/find_second_max_NOT_USING_ARRAY/sampleOutput.PNG)
